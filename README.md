@@ -25,7 +25,7 @@
 
 * After i tried that, it started working and styles applied accordingly.
 
-*
+* After that i was able to finish styling without issues.
 
 ## What is CSS Framework
 
@@ -38,7 +38,7 @@ that can be used for many web dev/design protects. It's faster and minimizes typ
 
 # Attributions
 
-* jessica
+* Jessica
 
 * [tailwindcss.com](https://tailwindcss.com/docs/installation)
 
