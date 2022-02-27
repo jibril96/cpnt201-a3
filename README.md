@@ -2,8 +2,8 @@
 
 ### Jibril
 
- ## [GH repo]()
- ## [GH page]()
+ ## [GH repo](https://github.com/jibril96/cpnt201-a3)
+ ## [GH page](https://jibril96.github.io/cpnt201-a3/)
 
 ## Code Journal
 
